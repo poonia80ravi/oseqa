@@ -1,0 +1,1 @@
+{"Null": 0, "DWORD_MEM": 1, "REG": 2, "CONST": 3, "MEM": 4, "DS": 5, "WORD_MEM": 6, "BYTE_MEM": 7, "SS": 8, "FS": 9, "QWORD_MEM": 10, "SCASB": 11, "STOSD": 12, "ES": 13, "CS": 14, "STOSB": 15, "SCASD": 16, "MOVSD": 17, "CMPSD": 18, "CMPSB": 19, "GS": 20, "MOVSB": 21, "Null": 22, "STOSW": 23, "SCASW": 24, "CMPSW": 25, "MOVSW": 26}
